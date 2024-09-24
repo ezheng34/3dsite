@@ -147,7 +147,7 @@ const experiences = [
     iconBg: "#000000",
     date: "September 2024 - Present",
     points: [
-      "Utilized HTML, CSS, Javascript, and React to develop an app to track data fenerated on driving day.",
+      "Utilized HTML, CSS, Javascript, and React to develop an app to track data generated on driving day.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create  a robust app.",
       "Conducted data analysis to create an overview of the car.",
     ],
